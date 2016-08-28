@@ -67,6 +67,13 @@ for analysis and action.
 Useful for quick status and safety checks. Ex: "Can you help at 12th Street
 Response Center?"
 
+#### Parse alternatives
+This app was built on Parse, but Parse is winding down, and will be fully retired on January 28, 2017.
+
+* [List of parse alternatives](https://github.com/relatedcode/ParseAlternatives)
+* [Parse server hosting providers](https://github.com/relatedcode/ParseAlternatives#parse-server-hosting-providers)
+
+
 #### Getting Parse Keys
 
 * [Create a free Parse application here](https://parse.com/)
